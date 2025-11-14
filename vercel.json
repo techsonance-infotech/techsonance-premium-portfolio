@@ -6,6 +6,6 @@
   "outputDirectory": ".next",
   "regions": ["bom1"],
   "env": {
-    "NEXT_PUBLIC_SITE_URL": "https://techsonance.com"
+    "NEXT_PUBLIC_SITE_URL": "https://techsonance.co.in"
   }
 }
