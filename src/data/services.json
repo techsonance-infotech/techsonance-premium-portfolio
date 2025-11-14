@@ -1,0 +1,138 @@
+{
+  "hero": {
+    "title": "Our Services",
+    "description": "Comprehensive IT solutions designed to accelerate your digital transformation and drive business growth."
+  },
+  "categories": {
+    "web": {
+      "title": "Web Development",
+      "icon": "Code2",
+      "items": [
+        {
+          "title": "Full-Stack Development",
+          "description": "End-to-end web application development using modern frameworks like React, Next.js, Node.js, and more.",
+          "icon": "Code2"
+        },
+        {
+          "title": "E-Commerce Solutions",
+          "description": "Scalable online stores with secure payment integration and inventory management.",
+          "icon": "Globe"
+        },
+        {
+          "title": "Progressive Web Apps",
+          "description": "Fast, reliable, and engaging web applications that work offline and feel native.",
+          "icon": "Zap"
+        },
+        {
+          "title": "UI/UX Design",
+          "description": "Beautiful, intuitive interfaces designed with user experience at the forefront.",
+          "icon": "Search"
+        }
+      ]
+    },
+    "cloud": {
+      "title": "Cloud Solutions",
+      "icon": "Cloud",
+      "items": [
+        {
+          "title": "Cloud Migration",
+          "description": "Seamless migration of your infrastructure to AWS, Azure, or Google Cloud Platform.",
+          "icon": "Cloud"
+        },
+        {
+          "title": "Infrastructure Management",
+          "description": "24/7 monitoring, maintenance, and optimization of your cloud infrastructure.",
+          "icon": "Server"
+        },
+        {
+          "title": "DevOps Services",
+          "description": "CI/CD pipelines, containerization, and automated deployment workflows.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Serverless Architecture",
+          "description": "Build and deploy applications without managing servers using modern serverless technologies.",
+          "icon": "Database"
+        }
+      ]
+    },
+    "ai": {
+      "title": "AI & ML",
+      "icon": "Brain",
+      "items": [
+        {
+          "title": "Machine Learning Models",
+          "description": "Custom ML models for prediction, classification, and recommendation systems.",
+          "icon": "Brain"
+        },
+        {
+          "title": "Natural Language Processing",
+          "description": "Text analysis, sentiment analysis, chatbots, and language translation solutions.",
+          "icon": "Search"
+        },
+        {
+          "title": "Computer Vision",
+          "description": "Image recognition, object detection, and visual analytics powered by AI.",
+          "icon": "Code2"
+        },
+        {
+          "title": "AI Integration",
+          "description": "Seamlessly integrate AI capabilities into your existing applications and workflows.",
+          "icon": "Zap"
+        }
+      ]
+    },
+    "security": {
+      "title": "Cybersecurity",
+      "icon": "Shield",
+      "items": [
+        {
+          "title": "Security Audits",
+          "description": "Comprehensive security assessments to identify vulnerabilities in your systems.",
+          "icon": "Shield"
+        },
+        {
+          "title": "Penetration Testing",
+          "description": "Ethical hacking services to test your security defenses and identify weaknesses.",
+          "icon": "Lock"
+        },
+        {
+          "title": "Compliance Management",
+          "description": "Ensure compliance with GDPR, HIPAA, SOC 2, and other regulatory standards.",
+          "icon": "Database"
+        },
+        {
+          "title": "Security Training",
+          "description": "Employee training programs to build a security-conscious culture in your organization.",
+          "icon": "BarChart"
+        }
+      ]
+    }
+  },
+  "process": {
+    "title": "Our Process",
+    "subtitle": "A proven methodology for delivering exceptional results",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Discovery",
+        "description": "Understanding your needs and objectives"
+      },
+      {
+        "step": "02",
+        "title": "Planning",
+        "description": "Strategizing the optimal solution approach"
+      },
+      {
+        "step": "03",
+        "title": "Development",
+        "description": "Building with best practices and quality"
+      },
+      {
+        "step": "04",
+        "title": "Delivery",
+        "description": "Deploying and supporting your solution"
+      }
+    ]
+  }
+}

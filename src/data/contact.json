@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Get In Touch",
+    "description": "Let's discuss how we can help transform your business with innovative technology solutions."
+  },
+  "form": {
+    "title": "Send us a message",
+    "fields": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "John Doe",
+        "type": "text",
+        "required": true
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "john@example.com",
+        "type": "email",
+        "required": true
+      },
+      "company": {
+        "label": "Company Name",
+        "placeholder": "Your Company",
+        "type": "text",
+        "required": false
+      },
+      "subject": {
+        "label": "Subject",
+        "placeholder": "How can we help?",
+        "type": "text",
+        "required": true
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell us about your project...",
+        "type": "textarea",
+        "required": true
+      }
+    },
+    "submitButton": "Send Message",
+    "successMessage": "Thank you! We'll get back to you soon.",
+    "errorMessage": "Something went wrong. Please try again."
+  },
+  "offices": [
+    {
+      "title": "Surat Branch",
+      "location": "Gujarat, India",
+      "address": "UG-112, Palladium Plaza, Vip Road, Vesu",
+      "city": "Surat, Gujarat-395007",
+      "icon": "Building2"
+    },
+    {
+      "title": "Hyderabad Branch",
+      "location": "Hyderabad, Telangana",
+      "address": "GVK One Mall, Banjara Hills",
+      "city": "Hyderabad, Telangana - 500034",
+      "icon": "Building2"
+    }
+  ],
+  "contactInfo": [
+    {
+      "title": "Email",
+      "value": "admin@techsonance.co.in",
+      "icon": "Mail",
+      "link": "mailto:admin@techsonance.co.in"
+    },
+    {
+      "title": "Phone",
+      "value": "+91 91731 01711",
+      "icon": "Phone",
+      "link": "tel:+919173101711"
+    },
+    {
+      "title": "Business Hours",
+      "value": "Mon - Sat, 9AM - 7PM IST",
+      "icon": "Clock"
+    }
+  ],
+  "map": {
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.038676556285!2d72.7931326!3d21.1441804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be053fa13e5542b%3A0x67b4b567726b12a4!2sPalladium%20Plaza!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+  }
+}

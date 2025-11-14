@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "title": "Our Projects",
+    "description": "Explore our portfolio of successful digital transformation projects across various industries."
+  },
+  "filters": [
+    { "id": "all", "label": "All Projects" },
+    { "id": "web", "label": "Web" },
+    { "id": "cloud", "label": "Cloud" },
+    { "id": "ai", "label": "AI/ML" },
+    { "id": "mobile", "label": "Mobile" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform Redesign",
+      "category": "web",
+      "image": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/6fe9c1ba-28ba-4bb7-a142-5f478ae47dfd/generated_images/modern-e-commerce-website-interface-mock-534e2c91-20251113150606.jpg",
+      "shortDescription": "Complete redesign and optimization of a major e-commerce platform serving 500K+ users.",
+      "fullDescription": "Led a comprehensive redesign of a large-scale e-commerce platform, improving user experience, site performance, and conversion rates. Implemented modern design patterns, optimized checkout flow, and integrated advanced analytics.",
+      "technologies": ["Next.js", "React", "Node.js", "PostgreSQL", "AWS"],
+      "client": "RetailCorp International",
+      "duration": "6 months",
+      "results": [
+        "45% increase in conversion rate",
+        "60% improvement in page load times",
+        "30% reduction in cart abandonment"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cloud Migration Initiative",
+      "category": "cloud",
+      "image": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/6fe9c1ba-28ba-4bb7-a142-5f478ae47dfd/generated_images/cloud-computing-infrastructure-visualiza-a85979a5-20251113150605.jpg",
+      "shortDescription": "Enterprise-scale migration from on-premise to AWS cloud infrastructure.",
+      "fullDescription": "Successfully migrated a Fortune 500 company's entire infrastructure to AWS, ensuring zero downtime and improved scalability. Implemented auto-scaling, disaster recovery, and comprehensive monitoring solutions.",
+      "technologies": ["AWS", "Docker", "Kubernetes", "Terraform", "Jenkins"],
+      "client": "Global Financial Services",
+      "duration": "8 months",
+      "results": [
+        "70% reduction in infrastructure costs",
+        "99.99% uptime achieved",
+        "5x improvement in deployment speed"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "AI-Powered Recommendation Engine",
+      "category": "ai",
+      "image": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/6fe9c1ba-28ba-4bb7-a142-5f478ae47dfd/generated_images/ai-machine-learning-neural-network-visua-db8787f8-20251113150604.jpg",
+      "shortDescription": "Machine learning system for personalized product recommendations.",
+      "fullDescription": "Developed an advanced recommendation engine using collaborative filtering and deep learning algorithms to provide personalized product suggestions, significantly improving user engagement and sales.",
+      "technologies": ["Python", "TensorFlow", "Apache Spark", "MongoDB", "AWS SageMaker"],
+      "client": "StreamMedia Inc.",
+      "duration": "5 months",
+      "results": [
+        "85% recommendation accuracy",
+        "40% increase in user engagement",
+        "25% boost in revenue"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Healthcare Mobile App",
+      "category": "mobile",
+      "image": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/6fe9c1ba-28ba-4bb7-a142-5f478ae47dfd/generated_images/healthcare-mobile-app-interface-showing--6cd68b4d-20251113150606.jpg",
+      "shortDescription": "HIPAA-compliant telemedicine application for iOS and Android.",
+      "fullDescription": "Built a secure, user-friendly telemedicine app enabling virtual consultations, prescription management, and health record access. Ensured full HIPAA compliance and implemented end-to-end encryption.",
+      "technologies": ["React Native", "Node.js", "MongoDB", "WebRTC", "AWS"],
+      "client": "HealthCare Network",
+      "duration": "7 months",
+      "results": [
+        "50K+ downloads in first month",
+        "4.8 star rating on app stores",
+        "100% HIPAA compliance"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Real-Time Analytics Dashboard",
+      "category": "web",
+      "image": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/6fe9c1ba-28ba-4bb7-a142-5f478ae47dfd/generated_images/real-time-analytics-dashboard-with-inter-172e2970-20251113150606.jpg",
+      "shortDescription": "Live data visualization platform for business intelligence.",
+      "fullDescription": "Created a comprehensive analytics dashboard with real-time data processing, interactive visualizations, and customizable reporting features for executive decision-making.",
+      "technologies": ["React", "D3.js", "WebSocket", "Redis", "PostgreSQL"],
+      "client": "DataDriven Corp",
+      "duration": "4 months",
+      "results": [
+        "Real-time data updates",
+        "90% faster report generation",
+        "Enhanced decision-making speed"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Serverless Microservices Architecture",
+      "category": "cloud",
+      "image": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/6fe9c1ba-28ba-4bb7-a142-5f478ae47dfd/generated_images/serverless-cloud-architecture-diagram-wi-1409246d-20251113150606.jpg",
+      "shortDescription": "Scalable serverless backend for high-traffic application.",
+      "fullDescription": "Designed and implemented a serverless microservices architecture using AWS Lambda, reducing operational costs while improving scalability and maintainability.",
+      "technologies": ["AWS Lambda", "API Gateway", "DynamoDB", "EventBridge", "CloudFormation"],
+      "client": "TechStartup Inc.",
+      "duration": "5 months",
+      "results": [
+        "80% cost reduction",
+        "Auto-scaling to millions of requests",
+        "Near-zero server management"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "NLP Chatbot Integration",
+      "category": "ai",
+      "image": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/6fe9c1ba-28ba-4bb7-a142-5f478ae47dfd/generated_images/ai-chatbot-interface-with-conversation-b-d70282be-20251113150606.jpg",
+      "shortDescription": "Intelligent customer service chatbot with natural language understanding.",
+      "fullDescription": "Developed an AI-powered chatbot capable of understanding customer queries, providing relevant answers, and escalating complex issues to human agents when necessary.",
+      "technologies": ["Python", "BERT", "DialogFlow", "FastAPI", "Redis"],
+      "client": "Customer Service Solutions",
+      "duration": "4 months",
+      "results": [
+        "75% query resolution rate",
+        "60% reduction in support tickets",
+        "24/7 customer support availability"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Cross-Platform Finance App",
+      "category": "mobile",
+      "image": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/6fe9c1ba-28ba-4bb7-a142-5f478ae47dfd/generated_images/finance-mobile-banking-app-interface-sho-bcdc071f-20251113150606.jpg",
+      "shortDescription": "Secure banking and investment management application.",
+      "fullDescription": "Built a comprehensive finance management app with features including account management, bill payments, investment tracking, and financial planning tools, all with bank-level security.",
+      "technologies": ["Flutter", "Firebase", "Node.js", "PostgreSQL", "Plaid API"],
+      "client": "FinTech Innovations",
+      "duration": "8 months",
+      "results": [
+        "100K+ active users",
+        "Bank-level security standards",
+        "4.9 star user rating"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Enterprise CRM System",
+      "category": "web",
+      "image": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/6fe9c1ba-28ba-4bb7-a142-5f478ae47dfd/generated_images/enterprise-crm-dashboard-interface-with--a2b522fb-20251113150605.jpg",
+      "shortDescription": "Custom CRM solution for sales pipeline management.",
+      "fullDescription": "Developed a tailored CRM system with advanced features for lead tracking, sales forecasting, email automation, and comprehensive reporting for enterprise sales teams.",
+      "technologies": ["Vue.js", "Laravel", "MySQL", "Redis", "Docker"],
+      "client": "Enterprise Solutions Group",
+      "duration": "6 months",
+      "results": [
+        "35% increase in sales productivity",
+        "95% user adoption rate",
+        "Integrated with 10+ third-party tools"
+      ]
+    }
+  ],
+  "stats": {
+    "title": "Project Success Metrics",
+    "items": [
+      { "value": "100+", "label": "Projects Delivered" },
+      { "value": "98%", "label": "Client Satisfaction" },
+      { "value": "150+", "label": "Enterprise Clients" },
+      { "value": "24/7", "label": "Support Available" }
+    ]
+  }
+}

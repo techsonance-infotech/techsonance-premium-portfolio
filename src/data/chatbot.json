@@ -1,0 +1,36 @@
+{
+  "enabled": true,
+  "type": "whatsapp",
+  "whatsappNumber": "+919173101711",
+  "buttonText": "Chat with us",
+  "welcomeMessage": "Hi there! 👋\nHow can we help you today?",
+  "quickReplies": [
+    {
+      "id": 1,
+      "text": "💼 Business Inquiry",
+      "message": "I'm interested in your services"
+    },
+    {
+      "id": 2,
+      "text": "🛠️ Technical Support",
+      "message": "I need technical support"
+    },
+    {
+      "id": 3,
+      "text": "💰 Pricing Information",
+      "message": "I'd like to know about pricing"
+    },
+    {
+      "id": 4,
+      "text": "📞 Schedule a Call",
+      "message": "I'd like to schedule a consultation call"
+    }
+  ],
+  "offlineMessage": "We're currently offline. Leave us a message and we'll get back to you soon!",
+  "position": "bottom-right",
+  "theme": {
+    "primaryColor": "#00C2FF",
+    "secondaryColor": "#0A1A2F",
+    "accentColor": "#25D366"
+  }
+}

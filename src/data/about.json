@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "title": "About TechSonance",
+    "subtitle": "Pioneering Digital Innovation Since 2018"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To empower businesses with innovative technology solutions that drive growth, efficiency, and digital transformation in an ever-evolving technological landscape."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "description": "To be the global leader in technology innovation, recognized for delivering excellence and creating lasting partnerships that shape the future of digital business."
+  },
+  "values": [
+    {
+      "title": "Innovation",
+      "description": "Constantly pushing boundaries with cutting-edge solutions",
+      "icon": "Lightbulb"
+    },
+    {
+      "title": "Excellence",
+      "description": "Delivering quality that exceeds expectations",
+      "icon": "Award"
+    },
+    {
+      "title": "Integrity",
+      "description": "Building trust through transparency and honesty",
+      "icon": "Shield"
+    },
+    {
+      "title": "Collaboration",
+      "description": "Working together to achieve remarkable results",
+      "icon": "Users"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2018",
+      "title": "Founded",
+      "description": "TechSonance InfoTech was established with a vision to revolutionize the IT industry."
+    },
+    {
+      "year": "2019",
+      "title": "First Major Client",
+      "description": "Secured our first enterprise client and delivered a groundbreaking cloud solution."
+    },
+    {
+      "year": "2020",
+      "title": "Team Expansion",
+      "description": "Grew our team to 20+ talented professionals across multiple disciplines."
+    },
+    {
+      "year": "2021",
+      "title": "Global Presence",
+      "description": "Opened offices in Surat, Gujarat serving clients across the globe."
+    },
+    {
+      "year": "2022",
+      "title": "AI Innovation Lab",
+      "description": "Launched our dedicated AI research team focusing on cutting-edge ML solutions."
+    },
+    {
+      "year": "2023",
+      "title": "50+ Projects",
+      "description": "Successfully delivered over 100 projects with a 98% client satisfaction rate."
+    },
+    {
+      "year": "2024",
+      "title": "Industry Recognition",
+      "description": "Received multiple awards for innovation and excellence in technology services."
+    }
+  ],
+  "team": {
+    "leadership": {
+      "title": "Leadership Team",
+      "subtitle": "Meet the visionaries behind TechSonance",
+      "members": [
+        {
+          "name": "Someshwari Adeya",
+          "role": "CEO & Co-Founder",
+          "icon": "User"
+        },
+        {
+          "name": "Sajesh Adeya",
+          "role": "CTO & Co-Founder",
+          "icon": "User"
+        },
+        {
+          "name": "Saikiran Rudra",
+          "role": "HR & Operations",
+          "icon": "User"
+        },
+        {
+          "name": "Sajesh Adeya",
+          "role": "Head of Innovation",
+          "icon": "User"
+        }
+      ]
+    },
+    "departments": [
+      {
+        "title": "Development Team",
+        "description": "50+ expert developers building next-generation solutions",
+        "icon": "Code2"
+      },
+      {
+        "title": "Design Team",
+        "description": "Creative minds crafting beautiful user experiences",
+        "icon": "Palette"
+      },
+      {
+        "title": "Data Science Team",
+        "description": "AI/ML specialists driving intelligent innovation",
+        "icon": "Brain"
+      },
+      {
+        "title": "Support Team",
+        "description": "24/7 dedicated support ensuring client success",
+        "icon": "Headphones"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "value": "100+",
+      "label": "Projects Completed"
+    },
+    {
+      "value": "150+",
+      "label": "Happy Clients"
+    },
+    {
+      "value": "20+",
+      "label": "Team Members"
+    },
+    {
+      "value": "98%",
+      "label": "Client Satisfaction"
+    }
+  ]
+}

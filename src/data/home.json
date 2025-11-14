@@ -1,0 +1,159 @@
+{
+  "hero": {
+    "title": "TechSonance InfoTech",
+    "subtitle": "Where Innovation Finds Its Resonance",
+    "description": "We deliver cutting-edge technology solutions that empower businesses to thrive in the digital age. From web development to AI integration, we're your trusted partner in innovation.",
+    "primaryCTA": {
+      "text": "Get Started",
+      "link": "/contact"
+    },
+    "secondaryCTA": {
+      "text": "View Projects",
+      "link": "/projects"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive IT solutions tailored to your business needs",
+    "items": [
+      {
+        "title": "Web Development",
+        "description": "Build modern, responsive web applications with cutting-edge technologies and best practices.",
+        "icon": "Code2"
+      },
+      {
+        "title": "Cloud Solutions",
+        "description": "Scalable cloud infrastructure and migration services to power your business growth.",
+        "icon": "Cloud"
+      },
+      {
+        "title": "AI & Machine Learning",
+        "description": "Intelligent solutions powered by artificial intelligence and machine learning algorithms.",
+        "icon": "Brain"
+      },
+      {
+        "title": "Cybersecurity",
+        "description": "Comprehensive security solutions to protect your digital assets and data.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Mobile Development",
+        "description": "Native and cross-platform mobile applications for iOS and Android.",
+        "icon": "Smartphone"
+      },
+      {
+        "title": "Data Analytics",
+        "description": "Transform raw data into actionable insights with advanced analytics.",
+        "icon": "BarChart"
+      }
+    ]
+  },
+  "clientLogos": {
+    "title": "Trusted by Industry Leaders",
+    "subtitle": "Partnering with innovative companies worldwide",
+    "logos": [
+      {
+        "name": "TechCorp Global",
+        "image": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=200&h=100&fit=crop"
+      },
+      {
+        "name": "Innovate Solutions",
+        "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&h=100&fit=crop"
+      },
+      {
+        "name": "Digital Dynamics",
+        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=200&h=100&fit=crop"
+      },
+      {
+        "name": "CloudFirst Inc",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=200&h=100&fit=crop"
+      },
+      {
+        "name": "DataSync Systems",
+        "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&h=100&fit=crop"
+      },
+      {
+        "name": "NextGen Enterprises",
+        "image": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=200&h=100&fit=crop"
+      }
+    ]
+  },
+  "features": {
+    "title": "Why Choose Us",
+    "subtitle": "Discover what sets us apart from the competition",
+    "items": [
+      {
+        "title": "Lightning Fast Performance",
+        "description": "Optimized solutions that deliver exceptional speed and reliability.",
+        "icon": "Zap"
+      },
+      {
+        "title": "Expert Team",
+        "description": "Experienced professionals dedicated to your success.",
+        "icon": "Users"
+      },
+      {
+        "title": "Secure Infrastructure",
+        "description": "Enterprise-grade security for peace of mind.",
+        "icon": "Lock"
+      },
+      {
+        "title": "Global Reach",
+        "description": "Serving clients worldwide with 24/7 support.",
+        "icon": "Globe"
+      },
+      {
+        "title": "Scalable Solutions",
+        "description": "Architecture that grows with your business needs.",
+        "icon": "Database"
+      },
+      {
+        "title": "Rapid Deployment",
+        "description": "Get to market faster with our agile development approach.",
+        "icon": "Rocket"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Real feedback from satisfied customers who trust TechSonance",
+    "items": [
+      {
+        "quote": "“TechSonance InfoTech delivered our custom tracking software on time with outstanding quality. Their team understood our workflow perfectly and built a solution that improved our operational efficiency by 90%.”",
+        "name": "Rohit Malhotra",
+        "designation": "Operations Manager, Nexa Logistics",
+        "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&h=500&fit=crop"
+      },
+      {
+        "quote": "“The e-commerce automation tool developed by the team has streamlined our backend and inventory operations. Truly impressed with their professionalism and support.”",
+        "name": "Priya Deshmukh",
+        "designation": "CEO, BrightLeaf Retail",
+        "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&h=500&fit=crop"
+      },
+      {
+        "quote": "“The fintech application they built for us is secure, scalable, and extremely user-friendly. Excellent work and great communication throughout.”",
+        "name": "Amit Trivedi",
+        "designation": "IT Head, Galaxy FinServ",
+        "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&h=500&fit=crop"
+      },
+      {
+        "quote": "“The team transformed our idea into a fully functional mobile app. Their technical expertise and attention to detail were exceptional.”",
+        "name": "Vikas Patel",
+        "designation": "Founder, AgroGrow Solutions",
+        "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&h=500&fit=crop"
+      },
+      {
+        "quote": "“Our internal HR management system was outdated. They upgraded it with modern features and a clean interface. Great experience working with them.”",
+        "name": "Meghna Shah",
+        "designation": "HR Director, PrimeCare Hospitals",
+        "src": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500&h=500&fit=crop"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "description": "Let's discuss how we can help you achieve your digital transformation goals.",
+    "buttonText": "Contact Us Today",
+    "buttonLink": "/contact"
+  }
+}

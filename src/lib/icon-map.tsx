@@ -1,0 +1,63 @@
+import {
+  Code2,
+  Cloud,
+  Brain,
+  Shield,
+  Smartphone,
+  BarChart,
+  Database,
+  Globe,
+  Server,
+  Lock,
+  Zap,
+  Search,
+  Lightbulb,
+  Award,
+  Users,
+  Target,
+  Eye,
+  TrendingUp,
+  Palette,
+  Headphones,
+  Rocket,
+  Building2,
+  Mail,
+  Phone,
+  Clock,
+  User,
+} from "lucide-react";
+
+export const iconMap: Record<string, any> = {
+  Code2,
+  Cloud,
+  Brain,
+  Shield,
+  Smartphone,
+  BarChart,
+  Database,
+  Globe,
+  Server,
+  Lock,
+  Zap,
+  Search,
+  Lightbulb,
+  Award,
+  Users,
+  Target,
+  Eye,
+  TrendingUp,
+  Palette,
+  Headphones,
+  Rocket,
+  Building2,
+  Mail,
+  Phone,
+  Clock,
+  User,
+};
+
+export const getIcon = (iconName: string, className?: string) => {
+  const IconComponent = iconMap[iconName];
+  if (!IconComponent) return null;
+  return <IconComponent className={className} />;
+};

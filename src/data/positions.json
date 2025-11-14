@@ -1,0 +1,172 @@
+{
+  "positions": [
+    {
+      "id": 1,
+      "title": "Senior Full Stack Developer",
+      "department": "Engineering",
+      "location": "Pune, India / Remote",
+      "employmentType": "Full-time",
+      "description": "We are seeking an experienced Full Stack Developer to join our engineering team. You will be responsible for designing, developing, and maintaining scalable web applications using modern technologies. The ideal candidate has strong expertise in both frontend and backend development.",
+      "requirements": [
+        "5+ years of experience in full-stack development",
+        "Strong proficiency in React, Node.js, and TypeScript",
+        "Experience with modern frameworks like Next.js, Express",
+        "Solid understanding of database design (SQL and NoSQL)",
+        "Experience with cloud platforms (AWS, Azure, or GCP)",
+        "Knowledge of CI/CD pipelines and DevOps practices",
+        "Excellent problem-solving and communication skills"
+      ],
+      "responsibilities": [
+        "Design and develop scalable web applications",
+        "Write clean, maintainable, and well-documented code",
+        "Collaborate with cross-functional teams",
+        "Mentor junior developers and conduct code reviews",
+        "Optimize application performance and scalability",
+        "Stay updated with latest technology trends"
+      ],
+      "salaryRange": "₹15-25 LPA",
+      "status": "Open",
+      "postedDate": "2025-01-10"
+    },
+    {
+      "id": 2,
+      "title": "DevOps Engineer",
+      "department": "Infrastructure",
+      "location": "Pune, India",
+      "employmentType": "Full-time",
+      "description": "Join our infrastructure team as a DevOps Engineer to build and maintain our cloud infrastructure. You will work on automating deployment pipelines, monitoring systems, and ensuring high availability of our services.",
+      "requirements": [
+        "3+ years of experience in DevOps or Site Reliability Engineering",
+        "Strong experience with AWS, Azure, or Google Cloud Platform",
+        "Proficiency in infrastructure as code (Terraform, CloudFormation)",
+        "Experience with containerization (Docker, Kubernetes)",
+        "Knowledge of CI/CD tools (Jenkins, GitLab CI, GitHub Actions)",
+        "Strong scripting skills (Bash, Python, or Go)",
+        "Experience with monitoring tools (Prometheus, Grafana, ELK)"
+      ],
+      "responsibilities": [
+        "Design and implement CI/CD pipelines",
+        "Manage cloud infrastructure and ensure high availability",
+        "Automate deployment and scaling processes",
+        "Monitor system performance and troubleshoot issues",
+        "Implement security best practices",
+        "Collaborate with development teams on infrastructure needs"
+      ],
+      "salaryRange": "₹12-20 LPA",
+      "status": "Open",
+      "postedDate": "2025-01-08"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Designer",
+      "department": "Design",
+      "location": "Pune, India / Hybrid",
+      "employmentType": "Full-time",
+      "description": "We are looking for a creative UI/UX Designer to craft beautiful and intuitive user experiences. You will work closely with product managers and developers to design user interfaces that delight our customers.",
+      "requirements": [
+        "3+ years of experience in UI/UX design",
+        "Strong portfolio demonstrating design expertise",
+        "Proficiency in Figma, Adobe XD, or Sketch",
+        "Understanding of user-centered design principles",
+        "Experience with responsive and mobile-first design",
+        "Knowledge of design systems and component libraries",
+        "Strong communication and collaboration skills"
+      ],
+      "responsibilities": [
+        "Design user interfaces for web and mobile applications",
+        "Create wireframes, prototypes, and high-fidelity mockups",
+        "Conduct user research and usability testing",
+        "Collaborate with developers to implement designs",
+        "Maintain and evolve design systems",
+        "Stay updated with design trends and best practices"
+      ],
+      "salaryRange": "₹10-18 LPA",
+      "status": "Open",
+      "postedDate": "2025-01-05"
+    },
+    {
+      "id": 4,
+      "title": "Business Development Manager",
+      "department": "Sales",
+      "location": "Mumbai, India",
+      "employmentType": "Full-time",
+      "description": "We are seeking a dynamic Business Development Manager to drive growth and expand our client base. You will identify new business opportunities, build relationships with potential clients, and contribute to our revenue goals.",
+      "requirements": [
+        "5+ years of experience in B2B sales or business development",
+        "Proven track record of meeting or exceeding sales targets",
+        "Strong understanding of IT services and solutions",
+        "Excellent communication and presentation skills",
+        "Experience with CRM tools (Salesforce, HubSpot)",
+        "Strong networking and relationship-building abilities",
+        "Bachelor's degree in Business, Marketing, or related field"
+      ],
+      "responsibilities": [
+        "Identify and pursue new business opportunities",
+        "Build and maintain relationships with key clients",
+        "Develop proposals and presentations for potential clients",
+        "Negotiate contracts and close deals",
+        "Collaborate with technical teams on solution design",
+        "Track and report on sales metrics and pipeline"
+      ],
+      "salaryRange": "₹12-22 LPA",
+      "status": "Open",
+      "postedDate": "2025-01-12"
+    },
+    {
+      "id": 5,
+      "title": "Digital Marketing Specialist",
+      "department": "Marketing",
+      "location": "Remote",
+      "employmentType": "Full-time",
+      "description": "Join our marketing team as a Digital Marketing Specialist to drive online visibility and lead generation. You will manage digital campaigns across multiple channels and optimize our online presence.",
+      "requirements": [
+        "3+ years of experience in digital marketing",
+        "Strong knowledge of SEO, SEM, and content marketing",
+        "Experience with Google Ads, Facebook Ads, LinkedIn Ads",
+        "Proficiency in Google Analytics and marketing automation tools",
+        "Strong copywriting and content creation skills",
+        "Data-driven mindset with analytical skills",
+        "Experience with email marketing and lead nurturing"
+      ],
+      "responsibilities": [
+        "Plan and execute digital marketing campaigns",
+        "Optimize website content for search engines",
+        "Manage paid advertising campaigns across platforms",
+        "Create engaging content for social media and blogs",
+        "Analyze campaign performance and provide insights",
+        "Generate and nurture leads through digital channels"
+      ],
+      "salaryRange": "₹8-15 LPA",
+      "status": "Open",
+      "postedDate": "2025-01-07"
+    },
+    {
+      "id": 6,
+      "title": "Project Manager",
+      "department": "Operations",
+      "location": "Pune, India",
+      "employmentType": "Full-time",
+      "description": "We need an experienced Project Manager to lead software development projects from inception to delivery. You will coordinate with cross-functional teams, manage timelines, and ensure successful project outcomes.",
+      "requirements": [
+        "5+ years of experience in IT project management",
+        "PMP or Scrum Master certification preferred",
+        "Strong understanding of Agile/Scrum methodologies",
+        "Experience managing software development projects",
+        "Excellent leadership and team management skills",
+        "Strong risk management and problem-solving abilities",
+        "Proficiency in project management tools (Jira, Asana, MS Project)"
+      ],
+      "responsibilities": [
+        "Plan and manage project scope, timeline, and budget",
+        "Lead project teams and facilitate communication",
+        "Monitor project progress and identify risks",
+        "Coordinate with stakeholders and manage expectations",
+        "Ensure project deliverables meet quality standards",
+        "Document project processes and lessons learned"
+      ],
+      "salaryRange": "₹14-24 LPA",
+      "status": "Open",
+      "postedDate": "2025-01-09"
+    }
+  ]
+}
